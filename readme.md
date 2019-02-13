@@ -8,4 +8,5 @@ According to the correlation heatmap provided in the program, it can be clearly 
 ![heatmap](https://user-images.githubusercontent.com/22019482/52683605-8fc3f380-2f00-11e9-879d-777c95dd9be1.png)
 
 As for the model choise, I used diffenrent kinds of linear models as you can find in the program. After compare the RMSE and coefficient of determination R^2, the linear regression model is the best with a RMSE = 16.97554 and R^2 = 0.55561. So the graph and corresponding paramters are shown in the program.
+
 ![result](https://user-images.githubusercontent.com/22019482/52683608-90f52080-2f00-11e9-8074-5307f2d58e51.png)
